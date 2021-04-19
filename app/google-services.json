@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490435870483",
+    "project_id": "sastra-uni",
+    "storage_bucket": "sastra-uni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490435870483:android:dbc9c2d90011270c4524e6",
+        "android_client_info": {
+          "package_name": "com.example.sastrauni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490435870483-sb5rqe31c6ds3gn3g3dsb34resr44l63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ55Tsd_ow_1bF738d4-pCpfdiSqgclVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490435870483-sb5rqe31c6ds3gn3g3dsb34resr44l63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
